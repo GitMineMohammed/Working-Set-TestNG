@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22734" started-at="2021-10-25T03:47:39Z" finished-at="2021-10-25T03:48:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22734" started-at="2021-10-25T03:47:39Z" finished-at="2021-10-25T03:48:02Z">
+      <class name="org.testcase.Test_Cases_Instagram">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.testcase.Test_Cases_Instagram@402a079c]" name="browserLaunch" is-config="true" duration-ms="15793" started-at="2021-10-25T03:47:39Z" finished-at="2021-10-25T03:47:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="userName_Phone_Num()[pri:0, instance:org.testcase.Test_Cases_Instagram@402a079c]" name="userName_Phone_Num" duration-ms="6810" started-at="2021-10-25T03:47:55Z" finished-at="2021-10-25T03:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userName_Phone_Num -->
+      </class> <!-- org.testcase.Test_Cases_Instagram -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
